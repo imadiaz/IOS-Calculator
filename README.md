@@ -14,5 +14,8 @@
 ### Calculator app IOS - Swift 5
 
 
+### iPhone
+![Screenshots](https://i.ibb.co/XYTHqDd/Simulator-Screen-Shot-i-Phone-11-Pro-2020-08-09-at-11-21-21.png)
 
-![Screenshots](https://user-images.githubusercontent.com/5730051/79185949-8acf3c80-7e42-11ea-984d-b098cfee5cd1.gif)
+### iPad
+![Screenshots](https://i.ibb.co/9hxSbY9/Simulator-Screen-Shot-i-Pad-7th-generation-2020-08-09-at-11-22-14.png)
